@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "327952168921",
+    "project_id": "job-pulse-d8848",
+    "storage_bucket": "job-pulse-d8848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327952168921:android:8e00f5d53e1dfd9a100bc8",
+        "android_client_info": {
+          "package_name": "com.example.job_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkJ8zq1PJdf17K2ab-u_6za9KoPb3Z7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327952168921:android:ca2093f4cf3c90b2100bc8",
+        "android_client_info": {
+          "package_name": "com.sparrow.job_puls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkJ8zq1PJdf17K2ab-u_6za9KoPb3Z7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327952168921:android:6a5d5f5c47332883100bc8",
+        "android_client_info": {
+          "package_name": "com.sparrowSofttech.job_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkJ8zq1PJdf17K2ab-u_6za9KoPb3Z7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
